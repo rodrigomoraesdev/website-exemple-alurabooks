@@ -35,10 +35,10 @@ Para estudo e aplicação do projeto, foi utilizado os conteúdos:
 ## 🤖 Tecnologias
 
 <div style="display: flex">
-  <img alt="HTML" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img alt="CSS" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-  <img alt="CSS" width="2.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" />      
-  <img alt="CSS" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain-wordmark.svg" />
+  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" />      
+  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain-wordmark.svg" />
   
 </div>
 
