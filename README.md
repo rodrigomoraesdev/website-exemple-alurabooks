@@ -18,15 +18,15 @@ Essa abordagem é importante devido ao aumento do uso de dispositivos móveis pa
 
 Foi desenvolvido como exemplo o website Alura Books, levando em consideração o conceito do Mobile-First.
 
-Para realização do projeto foi levado em consideração 3 layouts na sequência: 428, 1024 e 1728 pixels, logo priorizando sua funcionalidade nos dispositivos moveis, e em sequência se tornando responsivo para quaisquer outros dispositivos.
+Para realização do projeto elaborado 3 layouts na sequência: 428, 1024 e 1728 pixels, logo priorizando sua funcionalidade nos dispositivos moveis, e em sequência se tornando responsivo para quaisquer outros dispositivos.
 
 Sendo assim temos as seguintes seções:
 
-🔎 Menu: O website contém as categorias: Programação, Front-End, Infraestrutura, Business, Design & UX, com menus interativos e resposivos.
+🔎 Menu: O website contém as categorias: Programação, Front-End, Infraestrutura, Business, Design & UX, com menus interativos e responsivos.
 
 🎠 Carrossel: Seção principal, onde através da tecnologia Swiper, temos um apresentação dinâmica dos livros mais vendidos, novos lançamentos no formato carrossel.
 
-📌 Rodape: Onde o usuário pode cadastrar seu e-mail para receber novidades de lançamentos, e de acordo com o layout, é possível visualizar outras páginas da comunidade que podem ser de interesse aos usuários.
+📌 Rodapé: Onde o usuário pode cadastrar seu e-mail para receber novidades de lançamentos, e de acordo com o layout, é possível visualizar outras páginas da comunidade que podem ser de interesse aos usuários.
 
 ## 📚 Conhecimentos
 
