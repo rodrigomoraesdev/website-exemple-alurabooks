@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 # Website Exemplo: Alura Books
 
 ## 👨🏻‍💻 [Abrir Projeto](https://website-exemple-alurabooks.vercel.app)
@@ -39,7 +37,7 @@ Para estudo e aplicação do projeto, foi utilizado os conteúdos:
 <div style="display: flex">
   <img alt="HTML" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img alt="CSS" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-  <i class="devicon-swiper-original colored" style="font-size: 2.5em; padding: 0.2em;"></i>
+  <img alt="CSS" width="2.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" />      
   <img alt="CSS" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain-wordmark.svg" />
   
 </div>
