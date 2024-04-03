@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 [Abrir Projeto](https://website-exemple-alurabooks.vercel.app)
 
-https://github.com/rodrigomoraesdev/website-exemple-alurabooks/assets/110948655/19de6c68-7427-4d21-9528-96edaad304c7
+https://github.com/rodrigomoraesdev/website-exemple-alurabooks/assets/110948655/c3fa604e-8fce-42e3-871e-0822ef9f95c1
 
 ## 📝 Introdução
 
