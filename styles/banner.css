@@ -31,7 +31,7 @@
     color: var(--branco);
     text-align: center;
     background: url("/assets/icons/icones_main/Lupa.svg") no-repeat;
-    background-position: 1em;
+    background-position: 0em;
 }
 
 @media screen and (min-width: 1024px) {
